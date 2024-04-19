@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace LogementWS
+    //Test...test...1...2...1...2 
 {
     public class Program
     {
